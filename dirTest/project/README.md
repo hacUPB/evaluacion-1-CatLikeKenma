@@ -1,27 +1,39 @@
+<H1> EVALUACION 1 </H1>
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+![alt text](https://i.imgur.com/ITVGoe1.jpeg)
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+-1. Creé una carpeta con mkdir
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
+-2. Utilicé cd para buscar la carpeta
 
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
+-3. Entré a visual code para pegar el código
+
+-4. Guardé los cambios y creé los commit correspondientes
+
+-5. Hice el git push y lo envié
+
+LINK: https://github.com/hacUPB/evaluacion-1-CatLikeKenma.git
+
+Comandos utilizados
+
+-cd
+
+-mkdir
+
+-ls -al
+
+-git clone
+
+-git commit
+
+-git init
+
+-code .
+
+-git add
+
+-git log
+
 
 
 
